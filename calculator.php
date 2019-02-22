@@ -5,3 +5,6 @@ $operation = str_replace("calculator.php","*",operation);
 eval($operation);
 echo $result."\n";
 ?>
+
+
+s
